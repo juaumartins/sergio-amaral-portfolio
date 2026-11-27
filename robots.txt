@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sergioamaral.vercel.app/sitemap.xml
